@@ -1,1 +1,2 @@
-hola soy diego, tengo 27 años
+hola soy diego, tengo 28 años
+estoy aprendiendo git hace una semana
